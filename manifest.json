@@ -1,0 +1,50 @@
+{
+ "name": "Enkaringo❦",
+ "short_name": "Enkaringo❦",
+ "description": "Website Pustaka Novel Favorit Enka",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "000000",
+ "start_url": "https://www.enka.my.id/",
+ "background_color": "fff",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "Hirutshuji",
+ "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaOhKMfnJKMvVMN4XloVC3j0TXFn4X1ffVy8qj4_vm-qYTLb41d9gI0xtbVQHUMndVf16digh6nYg6ag7KOb-A0nhsxPtV_sDfFrjFiw8H2B1Lh_yS-fKmNEvM_3RXHyyq5anm1MRo-BYpdBHYhaj-3KTS1ydVlvxTX_1ssYiAssjz6x4yzKbOY6h3wg/s1600/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxjqYYkQ6byC7qrUID6VmPi9WdqvrqxZcVSn2h5iqpCFMdp-HjM5-KsUDzRZmO_coOvnk6N-X3YM-y58pkJB64yaNYiy7JWr8uQjNzVRPE8XWxHLfu-9PaoD0D50nlJzFKhI0c7321QWu6QLcDdIrbbW51Sm2EH-2fnc6cACET8_Fqn9EFjBdUlJvqA/s1600/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnp1glTVFklkouJY5FMGMs-ttKHLwKmBIJ9kg_gItJatCUGshfPgy3pisoIHtbHqRnkGUeYFfWu0bMFzyFCGkYAZ2CM_q7puva2JyOhVJgEt57Zngn6GJ44qNcr6lXY6Yvq0DzEp0wkquMDg2wmAPJSnhp5BcteQHxwVMJHjqAtciipfSbVhirz-IlkQ/s1600/favicon-16x16.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXStVeLQiVaOeHbdU6JB-zLyVPO3ZNP0Bh6eMIMNJMklqv53eTT_NcHl6Z-IMLaVhS-TfwqMCg4VbO7Hb8guiBdX9-htT3zJ-vsS7t_HFzHuXj40TxNmXZaiyd2pj51gaqA0tmzsrPVqWGzTibv4AK9_toQ1SCWIkuiAYz1S9GRRGj95CdV29wxcF83A/s1600/apple-touch-icon.png",
+    "sizes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqKTW74H6612YcZncSJt0ysvjqMYLsR99C-_Z6yhDqaNBd-6ursbsrClzDKw75qVd0A9I_6bOhCgJeGM1vfTAzsEoHOXKQCAvJMk-s8OUDOR8Lyo7TzyO0oHBfPl99XDPrNE92OGxnN6FP6qw08AwJsfHQPn0lqqtpTeDvYbXP7Z9tSiEsbDOGt_YtYg/s270/mstile-150x150.png",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqKTW74H6612YcZncSJt0ysvjqMYLsR99C-_Z6yhDqaNBd-6ursbsrClzDKw75qVd0A9I_6bOhCgJeGM1vfTAzsEoHOXKQCAvJMk-s8OUDOR8Lyo7TzyO0oHBfPl99XDPrNE92OGxnN6FP6qw08AwJsfHQPn0lqqtpTeDvYbXP7Z9tSiEsbDOGt_YtYg/s270/mstile-150x150.png",
+    "sizes": "150x150",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY0o_u-g6FvUZ_tg6HSffluYKlzJx8AglLVPvcdgHniWhvxQIRiELmkolTvY-if9zPZ0Zpo3LAf_FePWMQjABGyJu8plyBn24MBVA-AjbqE1z8S71ZCYBDnyji5r1fM9tY_uVKjVawswo6eCb8vdVB0yh55Me95IpxWi0h9budDTUEDeVnBqGMkd8G0w/s1600/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYycdEeeRdbGt1QVyw_fv0RPCvut-d2eQL8xJjrE3f_nHguu3DeS3wCyXMCMDBYtSmKjNn0ZgbMoFtfFwa-DotrlKOxQyjwwQPIWIRQVRu4hQOF2hdt2sELP96yncsovCxRe3S2EK6G3KCGAb48E-1taOnflJRgCIaXQ4bqwZEzTriAzFLpDiG-4btsg/s320/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
